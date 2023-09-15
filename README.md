@@ -8,4 +8,4 @@ Python Overview
 <br><br>
 Roadmap/Roteiro
 <br>
-<img src="#">
+<img src="https://github.com/leostella97/pythonoverview/blob/main/img/mental-map_python.png?raw=true">
