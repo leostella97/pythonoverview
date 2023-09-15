@@ -2,7 +2,7 @@ Python Overview
 
 <b>Idiomas</b>
 <br>
-<a href="#">• Português</a>
+<a href="/python_pt-br.md">• Português</a>
 <br>
 <a href="#">• English</a>
 <br><br>
