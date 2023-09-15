@@ -1,6 +1,8 @@
 # Python
 
-## Introdução### O que é Python?
+## Introdução
+
+### O que é Python?
 
 Python é uma linguagem de programação de alto nível que rapidamente ganhou popularidade devido à sua simplicidade, legibilidade e versatilidade. Foi criada em 1991 por Guido van Rossum e desde então se tornou uma das linguagens de programação mais utilizadas no mundo. Python é interpretado, o que significa que ele executa o código linha por linha, tornando-o mais fácil de analisar. É de código aberto, o que significa que é gratuito para usar, distribuir e modificar. Python é comumente usado para desenvolvimento web, dados, inteligência artificial e computação científica. A linguagem possui uma biblioteca de módulos e frameworks, facilitando a escrita de aplicações complexas com o mínimo de código. Python também possui uma grande comunidade, com inúmeros recursos disponíveis para iniciantes e especialistas.
 
